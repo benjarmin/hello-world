@@ -2,4 +2,5 @@
 
 Hello!
 
-This is the readme for the hello-world repo. Once I've thought of somthing useful to put in here I'll do so...
+This is the readme for the hello-world repo.
+Use this as a playground for all things git, especially those new things!
